@@ -126,7 +126,7 @@ mu_a, mu_sp = solver.predict(ac_dc_maps)
 
 ## 📚 Publications
 
-1. **Ahmmed, R.**, Kluiszo, E., Sunar, U. (2024). *Quantitative Fluorescence Imaging of Chemophototherapy Drug Pharmacokinetics Using Laparoscopic SFDI*. **Int. J. Molecular Sciences**, Q1, IF 4.9.
+1. **Ahmmed, R.**, Kluiszo, E., Sunar, U. (2025). *Quantitative Fluorescence Imaging of Chemophototherapy Drug Pharmacokinetics Using Laparoscopic SFDI*. **Int. J. Molecular Sciences**, Q1, IF 4.9.
 
 ---
 
